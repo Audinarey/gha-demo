@@ -1,4 +1,4 @@
-name: Hello world
+name: Three Step Workflow
 on: workflow_dispatch
 jobs:
   build:
