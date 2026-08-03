@@ -1,5 +1,5 @@
-name: Three Job Workflow
-on: workflow_dispatch
+name: Push Job Workflow
+on: push
 jobs:
   build:
     runs-on: ubuntu-latest
