@@ -1,4 +1,4 @@
-name: Three Step Workflow
+name: Three Job Workflow
 on: workflow_dispatch
 jobs:
   build:
