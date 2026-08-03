@@ -6,6 +6,6 @@ jobs:
     steps:
       - name: Hello ste
         run: |
-        echo "Welcome to GHA"
-        echo "This is the second line"
-        echo "This is the third line"
+          echo "Welcome to GHA"
+          echo "This is the second line"
+          echo "This is the third line"
